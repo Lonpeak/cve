@@ -1,4 +1,4 @@
-# Real Estate Property Management System has upload_file and sql injection vulnerability in ajax_city.php
+# Real Estate Property Management System has Unrestricted Upload and sql injection vulnerability in ajax_city.php
 
 ## supplier 
 https://code-projects.org/real-estate-property-management-system-php-source-code/
